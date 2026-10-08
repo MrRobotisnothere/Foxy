@@ -1,0 +1,7 @@
+{
+  "name": "AIRVPN",
+  "description": "Ultra-fast, zero-log next-generation VPN client with real-time network telemetry, global edge servers, encrypted DNS, and kill switch protection.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
